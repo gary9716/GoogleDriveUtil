@@ -1,0 +1,15 @@
+{
+  "name": "google-drive-util",
+  "version": "1.0.0",
+  "description": "",
+  "main": "testUpload.js",
+  "scripts": {
+    "test": "node testUpload.js"
+  },
+  "author": "KT Chou",
+  "license": "ISC",
+  "dependencies": {
+    "mime": "^2.2.0",
+    "request": "^2.83.0"
+  }
+}
